@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="658814b4-c806-4a5e-ad97-1473a39a386f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="34LGwuiHsSXFdQbkqOqbiDG2rKZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_add_to_cart.py.executor": "Run",
+    "Python tests.Python tests in test_all_products.py.executor": "Run",
+    "Python tests.pytest in test_add_to_cart.py.executor": "Run",
+    "Python tests.pytest in test_advanced_actions.py.executor": "Run",
+    "Python tests.pytest in test_all_products.py.executor": "Run",
+    "Python tests.pytest in test_contact_us.py.executor": "Run",
+    "Python tests.pytest in test_login_invalid.py.executor": "Run",
+    "Python tests.pytest in test_login_logout.py.executor": "Run",
+    "Python tests.pytest in test_place_order.py.executor": "Run",
+    "Python tests.pytest in test_register_existing.py.executor": "Run",
+    "Python tests.pytest in test_remove_product_from_cart.py.executor": "Run",
+    "Python tests.pytest in test_scroll.py.executor": "Run",
+    "Python tests.pytest in test_search_product.py.executor": "Run",
+    "Python tests.pytest in test_subscription_cart.py.executor": "Run",
+    "Python tests.pytest in test_subscription_home.py.executor": "Run",
+    "Python tests.pytest in test_verify_product_quantity.py.executor": "Run",
+    "Python tests.pytest in test_zoom_page.py.executor": "Run",
+    "Python.base_page.executor": "Run",
+    "Python.browser.executor": "Run",
+    "Python.cart_page.executor": "Run",
+    "Python.checkout_page.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "last_opened_file_path": "C:/Selenium Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="658814b4-c806-4a5e-ad97-1473a39a386f" name="Changes" comment="" />
+      <created>1760985680809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760985680809</updated>
+      <workItem from="1760985682923" duration="9411000" />
+      <workItem from="1760995777877" duration="27083000" />
+      <workItem from="1761105631822" duration="16202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_subscription_cart_py.coverage" NAME="pytest in test_subscription_cart.py Coverage Results" MODIFIED="1761106268439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_zoom_page_py.coverage" NAME="pytest in test_zoom_page.py Coverage Results" MODIFIED="1761107458579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$.coverage" NAME=" Coverage Results" MODIFIED="1760995101560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$cart_page.coverage" NAME="cart_page Coverage Results" MODIFIED="1761071081771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_scroll_py.coverage" NAME="pytest in test_scroll.py Coverage Results" MODIFIED="1761126337731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$browser.coverage" NAME="browser Coverage Results" MODIFIED="1761124516162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1760997939763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_search_product_py.coverage" NAME="pytest in test_search_product.py Coverage Results" MODIFIED="1761106201042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_contact_us_py.coverage" NAME="pytest in test_contact_us.py Coverage Results" MODIFIED="1761114306038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_login_invalid_py.coverage" NAME="pytest in test_login_invalid.py Coverage Results" MODIFIED="1761125114749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$checkout_page.coverage" NAME="checkout_page Coverage Results" MODIFIED="1761077264122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_advanced_actions_py.coverage" NAME="pytest in test_advanced_actions.py Coverage Results" MODIFIED="1761118897118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_subscription_home_py.coverage" NAME="pytest in test_subscription_home.py Coverage Results" MODIFIED="1761106314453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_login_logout_py.coverage" NAME="pytest in test_login_logout.py Coverage Results" MODIFIED="1761123791209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_remove_product_from_cart_py.coverage" NAME="pytest in test_remove_product_from_cart.py Coverage Results" MODIFIED="1761109616704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_add_to_cart_py.coverage" NAME="pytest in test_add_to_cart.py Coverage Results" MODIFIED="1761120389270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_verify_product_quantity_py.coverage" NAME="pytest in test_verify_product_quantity.py Coverage Results" MODIFIED="1761106980080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_all_products_py.coverage" NAME="pytest in test_all_products.py Coverage Results" MODIFIED="1761109680931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_register_existing_py.coverage" NAME="pytest in test_register_existing.py Coverage Results" MODIFIED="1761078800842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_Project$pytest_in_test_place_order_py.coverage" NAME="pytest in test_place_order.py Coverage Results" MODIFIED="1761118636745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

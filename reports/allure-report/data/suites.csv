@@ -1,0 +1,17 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","39623","test_advanced_actions","tests","Wed Oct 22 15:04:15 IST 2025","passed","Wed Oct 22 15:04:55 IST 2025","","test_advanced_actions","",""
+"","33709","test_login_invalid","tests","Wed Oct 22 15:05:49 IST 2025","passed","Wed Oct 22 15:06:22 IST 2025","","test_login_invalid","",""
+"","15078","test_zoom_in_out","tests","Wed Oct 22 15:10:39 IST 2025","passed","Wed Oct 22 15:10:54 IST 2025","","test_zoom_page","",""
+"","60573","test_place_order","tests","Wed Oct 22 15:06:54 IST 2025","passed","Wed Oct 22 15:07:54 IST 2025","","test_place_order","",""
+"","31426","test_login_logout","tests","Wed Oct 22 15:06:22 IST 2025","passed","Wed Oct 22 15:06:54 IST 2025","","test_login_logout","",""
+"","37297","test_register_existing","tests","Wed Oct 22 15:07:54 IST 2025","passed","Wed Oct 22 15:08:32 IST 2025","","test_register_existing","",""
+"","75038","test_add_to_cart","tests","Wed Oct 22 15:03:00 IST 2025","passed","Wed Oct 22 15:04:15 IST 2025","","test_add_to_cart","",""
+"","27977","test_search_product","tests","Wed Oct 22 15:10:08 IST 2025","passed","Wed Oct 22 15:10:36 IST 2025","","test_search_product","",""
+"
+Scroll down using repeated ARROW_DOWN presses, verify bottom content,
+then scroll up using ARROW_UP and verify top banner is visible again.
+","73332","test_scroll_with_arrow","tests","Wed Oct 22 15:08:32 IST 2025","failed","Wed Oct 22 15:09:45 IST 2025","","test_scroll","",""
+"","53761","test_contact_us","tests","Wed Oct 22 15:04:55 IST 2025","passed","Wed Oct 22 15:05:49 IST 2025","","test_contact_us","",""
+"
+Scroll to bottom/top using JavaScript and verify the expected elements are visible.
+","23271","test_scroll_with_js","tests","Wed Oct 22 15:09:45 IST 2025","passed","Wed Oct 22 15:10:08 IST 2025","","test_scroll","",""

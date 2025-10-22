@@ -1,0 +1,6 @@
+No alert present
+✅ Clicked element: ('xpath', "//a[contains(text(),'Signup / Login')]")
+✅ Typed text 'Akhil' into element: ('xpath', "//input[@data-qa='signup-name']")
+✅ Typed text 'akhildadhich9@gmail.com' into element: ('xpath', "//input[@data-qa='signup-email']")
+✅ Clicked element: ('xpath', "//button[@data-qa='signup-button']")
+📄 Got text 'Email Address already exist!' from ('xpath', "//p[contains(text(),'Email Address already exist!')]")

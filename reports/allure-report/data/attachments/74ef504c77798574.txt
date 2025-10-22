@@ -1,0 +1,4 @@
+🔍 Zoomed in to 120%
+🔍 Zoomed out to 80%
+🔄 Reset zoom to 100%
+✅ Zoom in/out test completed successfully

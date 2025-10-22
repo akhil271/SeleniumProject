@@ -1,0 +1,5 @@
+No alert present
+✅ Clicked element: ('xpath', "//a[contains(text(),'Login')]")
+✅ Typed text 'wrongemail@gmail.com' into element: ('name', 'email')
+✅ Typed text 'wrongpass' into element: ('name', 'password')
+✅ Clicked element: ('xpath', "//button[contains(text(),'Login')]")

@@ -1,0 +1,9 @@
+No alert present
+✅ Clicked element: ('link text', 'Contact us')
+✅ Typed text 'Akhil Dadhich' into element: ('css selector', "input[data-qa='name']")
+✅ Typed text 'akhildadhich9@gmail.com' into element: ('css selector', "input[data-qa='email']")
+✅ Typed text 'Test Subject' into element: ('css selector', "input[data-qa='subject']")
+✅ Typed text 'Hi, this is a test message.' into element: ('id', 'message')
+✅ Clicked element: ('name', 'submit')
+✅ Alert handled: Press OK to proceed!
+✅ Message shown after form submit: Success! Your details have been submitted successfully.

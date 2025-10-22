@@ -1,0 +1,7 @@
+🖱️ Mouse hovered over first product
+🖱️ Double clicked on product name
+⌨️ Typed 'Dress' in search box
+⌨️ Selected all text (Ctrl+A)
+⌨️ Copied text (Ctrl+C)
+⌨️ Pasted text back (Ctrl+V)
+✅ Browser closed

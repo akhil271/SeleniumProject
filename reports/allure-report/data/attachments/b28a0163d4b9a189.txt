@@ -1,0 +1,29 @@
+No alert present
+✅ Clicked element: ('xpath', "//a[contains(text(),'Login')]")
+✅ Typed text 'akhildadhich9@gmail.com' into element: ('name', 'email')
+✅ Typed text 'Akhil123' into element: ('name', 'password')
+✅ Clicked element: ('xpath', "//button[contains(text(),'Login')]")
+✅ Login successful
+✅ Ads hidden successfully.
+✅ JS clicked element: ('xpath', "//u[contains(text(),'View Cart')]")
+✅ Clicked 'View Cart' button successfully.
+🛒 Cart empty: False
+🗑️ Product removed from cart
+🛒 Cart empty: True
+✅ Cart cleared before test
+✅ First product opened
+✅ Quantity set to 2
+✅ Product added to cart
+✅ Product added to cart
+✅ Ads hidden successfully.
+✅ JS clicked element: ('xpath', "//u[contains(text(),'View Cart')]")
+✅ Clicked 'View Cart' button successfully.
+✅ Ads hidden successfully.
+❌ Could not click 'View Cart' or cart did not load
+🛒 Products in cart: ['Blue Top']
+✅ Product verified in cart
+✅ Ads hidden successfully.
+❌ Could not click 'View Cart' or cart did not load
+🛒 Quantity in cart: 2
+✅ Product quantity verified in cart
+✅ Browser closed

@@ -1,0 +1,5 @@
+No alert present
+✅ Clicked on Products link
+🔍 Searching for: Dress
+✅ Search button clicked
+✅ Test completed successfully

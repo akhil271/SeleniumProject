@@ -1,0 +1,3 @@
+No alert present
+✅ Clicked element: ('xpath', "//a[contains(text(),'Login')]")
+✅ Clicked element: ('xpath', "//a[contains(text(),'Logout')]")
