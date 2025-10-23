@@ -22,7 +22,7 @@ def test_add_to_cart():
     login_page = LoginPage(driver)
     login_page.go_to_login()
     login_page.login(email, password)
-    print("✅ Login successful")
+    print(" Login successful")
     time.sleep(2)
 
     # --- INITIALIZE PAGES ---
@@ -36,7 +36,7 @@ def test_add_to_cart():
         cart_page.remove_product()
         time.sleep(1)
         retry += 1
-    print("✅ Cart cleared before test")
+    print(" Cart cleared before test")
 
     # --- NAVIGATE BACK TO PRODUCTS PAGE ---
     driver.get("https://automationexercise.com/products")
@@ -52,7 +52,7 @@ def test_add_to_cart():
 
     # --- ADD TO CART ---
     product_page.add_product_to_cart()
-    print("✅ Product added to cart")
+    print(" Product added to cart")
     time.sleep(2)
 
     # --- VIEW CART AND VERIFY ---
@@ -61,13 +61,13 @@ def test_add_to_cart():
 
     # Verify product name
     products_in_cart = cart_page.get_product_names_in_cart()
-    assert "Blue Top" in products_in_cart, f"❌ Product not found in cart: {products_in_cart}"
-    print("✅ Product verified in cart")
+    assert "Blue Top" in products_in_cart, f" Product not found in cart: {products_in_cart}"
+    print(" Product verified in cart")
 
     # Verify quantity
     qty_in_cart = cart_page.get_product_quantity_in_cart()
-    assert qty_in_cart == 2, f"❌ Expected quantity 2 but got {qty_in_cart}"
-    print("✅ Product quantity verified in cart")
+    assert qty_in_cart == 2, f" Expected quantity 2 but got {qty_in_cart}"
+    print(" Product quantity verified in cart")
 
     driver.quit()
-    print("✅ Browser closed")
+    print(" Browser closed")
